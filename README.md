@@ -8,4 +8,5 @@ This project is a **Typing Speed and Accuracy Tester** developed in C++ as part 
 - Calculate accuracy as a percentage
 - Real-time feedback during typing
 - Display of final typing statistics
-
+  
+##Developed by
