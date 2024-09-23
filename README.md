@@ -8,5 +8,12 @@ This project is a **Typing Speed and Accuracy Tester** developed in C++ as part 
 - Calculate accuracy as a percentage
 - Real-time feedback during typing
 - Display of final typing statistics
+
+## Submitted to
+- Professor Dr. Sajjad Waheed
+  Dept. of ICT, MBSTU
   
-##Developed by
+## Developed by
+- Md. Nadim Mahmud Borad
+  Dept. of ICT
+  Session 2022-2023
