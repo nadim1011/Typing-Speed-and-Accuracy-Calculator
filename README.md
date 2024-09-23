@@ -11,9 +11,11 @@ This project is a **Typing Speed and Accuracy Tester** developed in C++ as part 
 
 ## Submitted to
 - Professor Dr. Sajjad Waheed
-Dept. of ICT, MBSTU
+  
+  Dept. of ICT, MBSTU
   
 ## Developed by
 - Md. Nadim Mahmud Borad
+  
   Dept. of ICT
   Session 2022-2023
