@@ -1,5 +1,3 @@
-# Typing-Speed-and-Accuracy-Calculator
-1st year 2nd semester project on Typing Speed and Accuracy Calculator using C++ .
 # Typing Speed and Accuracy Tester
 
 ## Project Description
@@ -11,7 +9,3 @@ This project is a **Typing Speed and Accuracy Tester** developed in C++ as part 
 - Real-time feedback during typing
 - Display of final typing statistics
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/typing-speed-tester.git
