@@ -15,4 +15,5 @@ This project is a **Typing Speed and Accuracy Tester** developed in C++ as part 
   
 ## Developed by
 - Md. Nadim Mahmud Borad [IT23012]
+- Smiul haque ruf [IT23011]
   
